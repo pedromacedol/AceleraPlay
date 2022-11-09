@@ -1,0 +1,51 @@
+{
+    "name": "Pedro Macedo",
+    "job": "Front-End Developer",
+    "github": "pedromacedol",
+    "playlists": {
+        "Trilha Front-end": [
+            {
+                "title": "Iniciando no Next.js | Com Vinícius Medeiros - Sidelab",
+                "url": "https://www.youtube.com/watch?v=UZxcWzzVsV8",
+                "thumb": "https://img.youtube.com/vi/UZxcWzzVsV8/maxresdefault.jpg"
+            },
+            {
+                "title": "REACT ROUTER V6",
+                "url": "https://www.youtube.com/watch?v=r31LkPZHExc",
+                "thumb": "https://img.youtube.com/vi/r31LkPZHExc/maxresdefault.jpg"
+            },
+            {
+                "title": "Realizando requisições com o AXIOS - Codando na prática | Sidelab",
+                "url": "https://www.youtube.com/watch?v=HWMTWu6IcUM",
+                "thumb": "https://img.youtube.com/vi/HWMTWu6IcUM/maxresdefault.jpg"
+            },
+            {
+                "title": "Iniciando no Next.js | Com Vinícius Medeiros - Sidelab",
+                "url": "https://www.youtube.com/watch?v=UZxcWzzVsV8",
+                "thumb": "https://img.youtube.com/vi/UZxcWzzVsV8/maxresdefault.jpg"
+            }
+        ],
+        "Workshops": [
+            {
+                "title": "WEBINAR | Como impulsionar o seu negócio com RPA",
+                "url": "https://www.youtube.com/watch?v=19P2kQ5F7v4",
+                "thumb": "https://img.youtube.com/vi/19P2kQ5F7v4/maxresdefault.jpg"
+            },
+            {
+                "title": "LABCAST | UX, a visão do designer e do dev front-end.",
+                "url": "https://www.youtube.com/watch?v=wpx6Sj8SsqQ",
+                "thumb": "https://img.youtube.com/vi/wpx6Sj8SsqQ/maxresdefault.jpg"
+            },
+            {
+                "title": "LAB CAST | Metodologias ágeis: Scrum",
+                "url": "https://www.youtube.com/watch?v=mIxc4eEqJJs",
+                "thumb": "https://img.youtube.com/vi/mIxc4eEqJJs/maxresdefault.jpg"
+            },
+            {
+                "title": "LAB CAST | QA e sua importância dentro de uma empresa.",
+                "url": "https://www.youtube.com/watch?v=TYKOTDKYNxE",
+                "thumb": "https://img.youtube.com/vi/TYKOTDKYNxE/maxresdefault.jpg"
+            }
+        ]   
+    }
+}
